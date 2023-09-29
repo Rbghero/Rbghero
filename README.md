@@ -13,3 +13,8 @@
 
 ### Сертификаты
 ### [Тестировщик ПО](https://github.com/Rbghero/Rbghero/assets/122157908/0e16b917-0dbd-4b78-bb53-7ab63ea5d2e4)
+
+#### Контакты для связи 
+1. [TG](https://t.me/rbgkek)
+2. Email <rbghero@gmail.com>
+
