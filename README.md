@@ -1,16 +1,15 @@
-### Hi there 👋
+## Привет 👋
 
-<!--
-**Rbghero/Rbghero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Я начинающий Тестировщик ПО.
 
-Here are some ideas to get you started:
+### Что я умею:
+* Тестирование веб-приложений. [Репозиторий с дипломной работой](https://github.com/Rbghero/Diploma)
+* Ручное тестирование веб-приложений. [Репозиторий с курсовой работой](https://docs.google.com/spreadsheets/d/1kjYu_c1lZ_OC9w7wamfSbfp268GpuudigXg89H30H70/edit#gid=0)
+* Работа с GIT. [Пример_1](https://github.com/netology-code/git-2-homeworks-issues/issues/1696) [Пример_2](https://rbghero.github.io/Homework/)
+* [Java](https://github.com/Rbghero/13)
+* Тестирование API. CI. [Postman](https://github.com/Rbghero/PostmanEcho)
+* [Тестирование веб-интерфейсов, Selenium и Selenide](https://github.com/Rbghero/CardOrder)
+* [Docker](https://github.com/Rbghero/Docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сертификаты
+### [Тестировщик ПО](https://github.com/Rbghero/Rbghero/assets/122157908/0e16b917-0dbd-4b78-bb53-7ab63ea5d2e4)
